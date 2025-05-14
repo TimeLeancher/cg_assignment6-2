@@ -22,14 +22,12 @@ Result of assignmet6-2
 ---
 Explanation
 ---
-The structure is similar to Q1, but some modifications are needed
+Basic shading settings, such as lighting models, object properties, and gamma correction, follow Q1's description, which focuses on the key differences in Gouraud Shading
 
 Change what was calculated once per triangle to be calculated at each vertex
 From applying a single color throughout the triangle, to interpolating the colors of the vertices for each pixel
 
 ![image](https://github.com/user-attachments/assets/a8cdef32-6d08-4e46-ab68-5f9be709b05c)
 ![image](https://github.com/user-attachments/assets/9d51c92b-e65c-4fd8-beb3-b9b51089813c)
-
-
 
 ![image](https://github.com/user-attachments/assets/63f27a77-0bc7-4a21-a9e0-2ca0048c37aa)
